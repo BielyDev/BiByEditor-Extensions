@@ -1,0 +1,5 @@
+# Programas de terceiros que cada pessoa instala por conta própria (yt-dlp, ffmpeg...)
+yt-dlp
+yt-dlp.exe
+*.exe
+settings.json

@@ -1,0 +1,11 @@
+{
+	"id": "download_link",
+	"name": "Download link",
+	"name_pt_BR": "Baixar link",
+	"version": "1.1.0",
+	"author": "",
+	"description": "Downloads the video (or only the audio) of a link, such as YouTube, optionally only a time range (start and end), and adds it to the Downloads folder of the media library. Needs yt-dlp and ffmpeg.",
+	"description_pt_BR": "Baixa o vídeo (ou só o áudio) de um link, como o YouTube, podendo baixar só um trecho (início e fim), e o adiciona à pasta Downloads da biblioteca. Precisa do yt-dlp e do ffmpeg.",
+	"main": "main.gd",
+	"api": 1
+}
